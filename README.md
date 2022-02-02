@@ -7,10 +7,11 @@ suit our needs.
 
 This final project is conducted by Zeying Tian, Yining Dua, and Dailun Li.
 
-<<<<<<< HEAD
+
 This repository is created based on @Keon's barebone seq2seq implementation.
-=======
+
 >>>>>>> f6b6bd2a75c38e44d736376b2e48b1b9c79a27ef
+>>>>>>>
 ## Recurrent neural network classifier with self-attention
 
 This is a a minimal RNN-based classification model (many-to-one) with self-attention. This script requires the torchtext
